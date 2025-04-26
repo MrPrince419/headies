@@ -8,26 +8,22 @@ My portfolio (https://prince-uwagboe.netlify.app/) primarily showcases my data a
 
 ## What I Did
 
-I created a sophisticated automation system that successfully manipulated the voting process for the Headies Awards, a major Nigerian music industry award show. The Headies Awards relied on a simple Google Form for their voting system, which I was able to exploit to submit hundreds of votes for specific artists. My program:
+I created an automation system that successfully manipulated the voting process for the Headies Awards, a major Nigerian music industry award show. The Headies Awards relied on a simple Google Form for their voting system, which I was able to exploit to submit hundreds of votes for specific artists. My program:
 
 Generated realistic African identities with proper names, phone numbers, and email addresses
 Submitted votes that appeared to come from real people across multiple African countries
 Successfully bypassed all security measures on the voting platform
-Maintained a 100% success rate over 500+ form submissions
+Maintained a ~90% success rate over 500+ form submissions
 Directly influenced the actual results of the awards competition
-
-At some point I thought I got caught because the scripts kept failing and I thought they had found a way to finally keep me out, but it turns out they just recreated the questions because the entry IDs changed. That issue was quickly resolved. I did try not to overdo it because I had other things to do, but at the same time I tried to make an impact and honestly see if I could tip the votes in an artist's favor.
-
-NOTE: I wasn't contracted to do this nor do I have any affiliation with any of the said artists. I just used them as examples for this project.
 
 ## Why I Did It
 
-As a self-taught data analyst with a love for afrobeats, I was shocked to discover that the Headies Awards—one of the most influential award shows in afrobeats—was using basic Google Forms for voting. This presented both a technical challenge and an opportunity to highlight critical security issues that could affect artists I follow and appreciate. I created this project to:
+As someone with a deep love for afrobeats, I was shocked to discover that the Headies Awards, one of the most influential award shows in afrobeats was using basic Google Forms for voting. This presented both a technical challenge and an opportunity to highlight critical security issues that could affect artists I follow and appreciate. I created this project to:
 
 1. Demonstrate the real-world security vulnerabilities of simple voting platforms
 2. Explore practical applications of the automation skills I've been developing
 3. Advocate for fairer systems that protect the integrity of awards that impact afrobeats artists
-4. Combine my interest in AI and data analysis with my passion for afrobeats
+4. Combine my interest in AI development and data analysis with my passion for afrobeats
 5. Create a meaningful portfolio project that showcases my self-taught technical abilities
 
 ## How I Did It
@@ -61,8 +57,7 @@ Handled errors intelligently, backing off when the system might be suspicious
 ### Tracking Results
 
 The program kept detailed records of:
-Every identity it used (stored in used_identities.json)
-Its success rate (which reached 100% in my testing)
+Its success rate (which reached ~90% in my testing)
 Statistics about how many votes it submitted
 
 ## The Impact on the Nigerian Music Industry
@@ -106,13 +101,13 @@ My program demonstrated the critical security flaws in using Google Forms for hi
 5. **No Cross-Field Validation**: The system didn't verify relationships between names, emails, and phone numbers
 
 The technical results were impressive:
-100% success rate across 500+ form submissions
+~90% success rate across 500+ form submissions (450 successful out of 500 attempts)
 Created hundreds of unique, realistic-looking African identities
-Maintained perfect reliability despite occasional network timeouts
+Maintained high reliability despite occasional network timeouts
 Complete evasion of any security measures
 Demonstrated multiple security vulnerabilities in a production voting system
 
-Even when faced with network errors or connection timeouts, the system's retry mechanisms ensured that not a single vote was lost, maintaining a 100% success rate throughout all batches of submissions.
+Even when faced with network errors or connection timeouts, the system's retry mechanisms ensured very few votes were lost, maintaining a high success rate throughout all batches of submissions.
 
 ## Ethical Considerations and Disclaimer
 
@@ -136,7 +131,6 @@ The music industry should be a fair playing field where artists succeed based on
 As a self-taught data analyst and afrobeats enthusiast, this project represents the intersection of my technical interests and passion for afrobeats. My experiment demonstrates why organizations should never use simple Google Forms for high-stakes voting that affects artists' careers and instead invest in proper systems with:
 
 Identity verification
-Geographic restrictions
 Sophisticated bot detection
 Rate limiting and anomaly detection
 Cross-field validation

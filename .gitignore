@@ -1,52 +1,6 @@
-# Logs
-*.log
+# Log files
 form_submission.log
-form_submission_cleaned.log
 
-# User data
+# Active data files (samples are tracked)
 used_identities.json
 submission_stats.json
-
-# Personal notes
-headies script.txt
-
-# Node.js related (not needed for Python project)
-node_modules/
-package.json
-package-lock.json
-
-# Python related
-__pycache__/
-*.py[cod]
-*$py.class
-*.so
-.Python
-env/
-build/
-develop-eggs/
-dist/
-downloads/
-eggs/
-.eggs/
-lib/
-lib64/
-parts/
-sdist/
-var/
-*.egg-info/
-.installed.cfg
-*.egg
-
-# Virtual Environment
-venv/
-ENV/
-
-# IDE files
-.idea/
-.vscode/
-*.swp
-*.swo
-
-# OS specific files
-.DS_Store
-Thumbs.db

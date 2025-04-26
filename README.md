@@ -21,34 +21,34 @@ This project demonstrates how a simple Google Form-based voting system for a maj
 
 - Generated realistic African identities with properly formatted names, phone numbers, and email addresses
 - Simulated human-like voting behavior to avoid detection
-- Bypassed all security measures on the voting platform
-- Maintained a 100% success rate over 500+ form submissions
-- Directly influenced the actual results of the awards competition
+- Bypassed security measures on the voting platform
+- Maintained a ~90% success rate (450 successful out of 500 submissions)
+- Potentially influenced the results of the awards competition
 
 > **NOTE:** This project was created for educational purposes only. I wasn't contracted to do this nor do I have any affiliation with any of the artists mentioned. They were used purely as examples.
 
 ## ✨ Features
 
 - **Identity Generation**: Creates believable African identities from Nigeria, Ghana, Kenya, and South Africa
-- **Human Behavior Simulation**: Implements random pauses, varied typing speeds, and realistic browsing patterns
-- **Anti-Detection Mechanisms**: Rotates VPN connections, user agents, and browser fingerprints
-- **Error Handling**: Intelligent retry systems and rate limit detection
+- **Human Behavior Simulation**: Implements random delays, varied session patterns, and realistic browsing behavior
+- **Anti-Detection Mechanisms**: Prompts for VPN switching, rotates user agents, and varies HTTP headers
+- **Error Handling**: Intelligent retry systems and adaptive rate limit detection
 - **Performance Tracking**: Detailed logging and success metrics
 
 ## 📊 Results & Impact
 
-The program exposed critical security flaws in Google Forms for high-stakes voting:
+The program exposed security flaws in Google Forms for high-stakes voting:
 
-1. **No Identity Verification**: Unlimited fake identities could be created and submitted
+1. **No Identity Verification**: Multiple identities could be created and submitted
 2. **Inadequate Rate Limiting**: Multiple votes could be submitted by changing connection methods
-3. **Poor Bot Detection**: The system couldn't identify automated submissions
-4. **No Geographic Restrictions**: Votes could be submitted from anywhere globally
-5. **Lack of Cross-Field Validation**: No verification between names, emails, and phone numbers
+3. **Limited Bot Detection**: The system had difficulty identifying well-crafted automated submissions
+4. **Lack of Cross-Field Validation**: No verification between names, emails, and phone numbers
 
 **Technical Achievements:**
-- 100% success rate across 500+ form submissions
+- ~90% success rate across 500+ form submissions
 - Hundreds of unique, realistic-looking African identities created
-- Complete evasion of all security measures
+- Effective evasion of basic security measures
+- Adaptive response to rate limiting and connection issues
 
 ## 🔒 Ethical Considerations
 
@@ -56,7 +56,7 @@ This project was created with the primary goal of exposing vulnerabilities to im
 
 1. Better voting infrastructure for awards shows
 2. Improved security standards for online voting systems
-3. Awareness about how easily online voting can be manipulated
+3. Awareness about how online voting can be manipulated
 
 ### Botting in the Nigerian Music Industry
 
@@ -65,7 +65,7 @@ This project highlights a larger issue of "botting" in the Nigerian music indust
 - **Voting Bots**: Programs that manipulate award contest results
 - **Streaming Farms**: Operations that generate fake streams on music platforms
 
-These practices create unfair advantages and undermine industry credibility. Documented cases include the Chad Focus fraud case, the BNXN vs. Ruger feud, and widespread label-driven streaming manipulation.
+These practices create unfair advantages and undermine industry credibility.
 
 ## 👨‍💻 About the Author
 

@@ -1,14 +1,20 @@
 [
   {
-    "name": "Example Name",
-    "email": "example@email.com",
-    "phone": "+2347123456789",
-    "timestamp": "2025-04-23T12:34:56.789012"
+    "name": "Adenike Folake",
+    "email": "adenike.folake234@gmail.com",
+    "phone": "+2348091234567",
+    "timestamp": "2025-04-24T10:15:32.457890"
   },
   {
-    "name": "Another Example",
-    "email": "another@example.com",
-    "phone": "+2335551234567",
-    "timestamp": "2025-04-23T12:45:00.123456"
+    "name": "Kwame Ato",
+    "email": "kwame_ato1995@yahoo.com.gh",
+    "phone": "+233245678901",
+    "timestamp": "2025-04-24T10:22:48.123456"
+  },
+  {
+    "name": "Wanjiku Githu",
+    "email": "wanjiku.g@safaricom.co.ke",
+    "phone": "+254712345678",
+    "timestamp": "2025-04-24T10:35:17.987654"
   }
 ]
