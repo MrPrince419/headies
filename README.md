@@ -11,6 +11,7 @@ A sophisticated automation system that demonstrates critical security vulnerabil
 - [Project Overview](#project-overview)
 - [Features](#features)
 - [Results & Impact](#results--impact)
+- [Analysis Summary](#analysis-summary)
 - [Ethical Considerations](#ethical-considerations)
 - [About the Author](#about-the-author)
 - [License](#license)
@@ -22,7 +23,7 @@ This project demonstrates how a simple Google Form-based voting system for a maj
 - Generated realistic African identities with properly formatted names, phone numbers, and email addresses
 - Simulated human-like voting behavior to avoid detection
 - Bypassed security measures on the voting platform
-- Maintained a ~90% success rate (450 successful out of 500 submissions)
+- Maintained a ~99.5% success rate (17,483 successful out of 17,574 submissions)
 - Potentially influenced the results of the awards competition
 
 > **NOTE:** This project was created for educational purposes only. I wasn't contracted to do this nor do I have any affiliation with any of the artists mentioned. They were used purely as examples.
@@ -45,10 +46,18 @@ The program exposed security flaws in Google Forms for high-stakes voting:
 4. **Lack of Cross-Field Validation**: No verification between names, emails, and phone numbers
 
 **Technical Achievements:**
-- ~90% success rate across 500+ form submissions
+- ~99.5% success rate across 17,574 form submissions (17,483 successful out of 17,574 attempts)
 - Hundreds of unique, realistic-looking African identities created
 - Effective evasion of basic security measures
 - Adaptive response to rate limiting and connection issues
+
+## 📊 Analysis Summary
+
+- **Total Submissions:** 17,574
+- **Successful Submissions:** 17,483
+- **Unsuccessful Submissions:** 91
+
+> **Note:** These numbers are a rough estimate. The log file contains approximately 20,000 lines and is scattered, so there might be some inaccuracies.
 
 ## 🔒 Ethical Considerations
 

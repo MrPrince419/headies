@@ -13,7 +13,7 @@ I created an automation system that successfully manipulated the voting process 
 Generated realistic African identities with proper names, phone numbers, and email addresses
 Submitted votes that appeared to come from real people across multiple African countries
 Successfully bypassed all security measures on the voting platform
-Maintained a ~90% success rate over 500+ form submissions
+Maintained a ~90% success rate over 1700+ form submissions
 Directly influenced the actual results of the awards competition
 
 ## Why I Did It
@@ -101,13 +101,21 @@ My program demonstrated the critical security flaws in using Google Forms for hi
 5. **No Cross-Field Validation**: The system didn't verify relationships between names, emails, and phone numbers
 
 The technical results were impressive:
-~90% success rate across 500+ form submissions (450 successful out of 500 attempts)
-Created hundreds of unique, realistic-looking African identities
-Maintained high reliability despite occasional network timeouts
-Complete evasion of any security measures
-Demonstrated multiple security vulnerabilities in a production voting system
+- ~99.5% success rate across 17,574 form submissions (17,483 successful out of 17,574 attempts)
+- Created hundreds of unique, realistic-looking African identities
+- Maintained high reliability despite occasional network timeouts
+- Complete evasion of any security measures
+- Demonstrated multiple security vulnerabilities in a production voting system
 
 Even when faced with network errors or connection timeouts, the system's retry mechanisms ensured very few votes were lost, maintaining a high success rate throughout all batches of submissions.
+
+## Analysis Summary
+
+- **Total Submissions:** 17,574
+- **Successful Submissions:** 17,483
+- **Unsuccessful Submissions:** 91
+
+> **Note:** These numbers are a rough estimate. The log file contains approximately 20,000 lines and is scattered, so there might be some inaccuracies.
 
 ## Ethical Considerations and Disclaimer
 
