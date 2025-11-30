@@ -4,7 +4,7 @@
 
 I'm studying Computer Science with a focus on data analytics. For the past year, I've been working as a Data Analyst Intern where I've built interactive dashboards in Power BI, developed Python scripts to automate data pipelines, and turned messy datasets into actionable insights. I'm proficient in Python, SQL, and Power BI, with hands-on experience cleaning data, performing statistical analysis, and creating visualizations that help people make decisions.
 
-My portfolio at prince-portfolio.site showcases my data analysis projects, my resume and my latest work. This project was born out of my natural curiousity and love for the Nigerian music industry.
+My portfolio at [prince-portfolio.site](https://prince-portfolio.site/) showcases my data analysis projects, my resume and my latest work. This project was born out of my natural curiousity and love for the Nigerian music industry.
 
 ## What I Did
 
@@ -147,4 +147,4 @@ The Nigerian music industry faces real challenges from botting that threaten its
 
 Through this project, I've been able to apply my self-taught skills in automation and data analysis to a real-world problem while exploring AI-assisted development techniques—combining my professional interests with my personal passion for afrobeats and the Nigerian music scene.
 
-Visit my portfolio at https://prince-portfolio.site/ to see more of my data analysis projects and latest endevours that demonstrate my always evolving technical skills.
+Visit my portfolio at [prince-portfolio.site](https://prince-portfolio.site/) to see more of my data analysis projects and latest endevours that demonstrate my always evolving technical skills.
