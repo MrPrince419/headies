@@ -78,7 +78,7 @@ These practices create unfair advantages and undermine industry credibility.
 
 ## 👨‍💻 About the Author
 
-I am a self-taught data analyst focused on automation and data analytics. My portfolio at [prince-uwagboe.netlify.app](https://prince-uwagboe.netlify.app/) showcases my data analysis and automation skills. This project represents the intersection of my technical interests with my passion for the Nigerian music industry and afrobeats scene.
+I am currently working towards a career in data analysis. My portfolio at [prince-portfolio.site](https://prince-portfolio.site/) showcases my data analysis projects, my resume and my latest work. This project was born out of my natural curiousity and love for the Nigerian music industry.
 
 ## 📜 License
 
